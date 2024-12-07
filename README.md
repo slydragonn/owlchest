@@ -1,1 +1,1 @@
-# SquirrelPass
+# Password Manager

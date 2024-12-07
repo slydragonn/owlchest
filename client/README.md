@@ -1,1 +1,1 @@
-# SquirrelPass Frontend
+# Frontend
